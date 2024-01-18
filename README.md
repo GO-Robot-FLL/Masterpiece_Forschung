@@ -42,7 +42,10 @@ Edit these lines of code to change the axis labels
     plt.xlabel('Alter')
     plt.ylabel('Feedback Werte')
 ```
-The First Line changes the Data. This needs to be one the coloumns that you have.
+The First Line changes the Data. This is the place where you specify the coloumns that you are plotting in your data set.
+the second line changes the title of the graph.
+The third and fourth lines change the labels of the axes.
+
 
 
 
